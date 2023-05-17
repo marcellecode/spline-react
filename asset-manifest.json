@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.18cbee01.css",
-    "main.js": "/static/js/main.7d1d5c93.js",
-    "static/js/227.227270ff.chunk.js": "/static/js/227.227270ff.chunk.js",
-    "static/js/526.730401ee.chunk.js": "/static/js/526.730401ee.chunk.js",
-    "static/js/232.81837203.chunk.js": "/static/js/232.81837203.chunk.js",
-    "static/js/237.a2bd58c8.chunk.js": "/static/js/237.a2bd58c8.chunk.js",
-    "static/js/787.28e63658.chunk.js": "/static/js/787.28e63658.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.18cbee01.css.map": "/static/css/main.18cbee01.css.map",
-    "main.7d1d5c93.js.map": "/static/js/main.7d1d5c93.js.map",
-    "227.227270ff.chunk.js.map": "/static/js/227.227270ff.chunk.js.map",
-    "526.730401ee.chunk.js.map": "/static/js/526.730401ee.chunk.js.map",
-    "232.81837203.chunk.js.map": "/static/js/232.81837203.chunk.js.map",
-    "237.a2bd58c8.chunk.js.map": "/static/js/237.a2bd58c8.chunk.js.map",
-    "787.28e63658.chunk.js.map": "/static/js/787.28e63658.chunk.js.map"
+    "main.css": "/spline-react/static/css/main.18cbee01.css",
+    "main.js": "/spline-react/static/js/main.b876c0b7.js",
+    "static/js/227.227270ff.chunk.js": "/spline-react/static/js/227.227270ff.chunk.js",
+    "static/js/526.730401ee.chunk.js": "/spline-react/static/js/526.730401ee.chunk.js",
+    "static/js/232.81837203.chunk.js": "/spline-react/static/js/232.81837203.chunk.js",
+    "static/js/237.a2bd58c8.chunk.js": "/spline-react/static/js/237.a2bd58c8.chunk.js",
+    "static/js/787.28e63658.chunk.js": "/spline-react/static/js/787.28e63658.chunk.js",
+    "static/media/logo.svg": "/spline-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/spline-react/index.html",
+    "main.18cbee01.css.map": "/spline-react/static/css/main.18cbee01.css.map",
+    "main.b876c0b7.js.map": "/spline-react/static/js/main.b876c0b7.js.map",
+    "227.227270ff.chunk.js.map": "/spline-react/static/js/227.227270ff.chunk.js.map",
+    "526.730401ee.chunk.js.map": "/spline-react/static/js/526.730401ee.chunk.js.map",
+    "232.81837203.chunk.js.map": "/spline-react/static/js/232.81837203.chunk.js.map",
+    "237.a2bd58c8.chunk.js.map": "/spline-react/static/js/237.a2bd58c8.chunk.js.map",
+    "787.28e63658.chunk.js.map": "/spline-react/static/js/787.28e63658.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.18cbee01.css",
-    "static/js/main.7d1d5c93.js"
+    "static/js/main.b876c0b7.js"
   ]
 }
