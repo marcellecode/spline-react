@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.spline {
+  height: 100vw;
+  background-color: #282c34; 
+}
