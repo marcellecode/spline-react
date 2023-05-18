@@ -1,13 +1,9 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Spline from "@splinetool/react-spline";
+import { Application } from '@splinetool/runtime';
 
-function App() {
-  return (
-    <div className="spline">
-      <Spline scene="https://prod.spline.design/ARZRwPxk23aAQlzZ/scene.splinecode" />
-    </div>
-  );
-}
+const canvas = document.getElementById('canvas3d');
+const app = new Application(canvas);
 
-export default App;
+app.load('https://prod.spline.design/ARZRwPxk23aAQlzZ/scene.splinecode');
+

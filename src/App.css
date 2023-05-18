@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -40,4 +40,17 @@
 .spline {
   height: 100vw;
   background-color: #282c34; 
+} */
+
+body {
+  margin: 0;
+}
+html,
+body {
+  height: 100%;
+	overflow: hidden;
+  background-color: #282c34; 
+}
+canvas {
+  display: block;
 }
